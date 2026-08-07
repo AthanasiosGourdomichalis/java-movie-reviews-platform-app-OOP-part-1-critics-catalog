@@ -1,0 +1,2 @@
+# java_OOP_movie_review_app_recomendations_platform_catalog
+In this assignment an online movie platform organizes its movie catalog to better understand user preferences and improve the search and recommendation experience. Users can submit ratings and short reviews for movies they have watched. OOP system development for basic processing on information related to movie reviews. READ ASSIGNMENT.pdf FOR MORE

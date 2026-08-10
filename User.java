@@ -6,7 +6,7 @@ public class User implements Printable { //The User class implements the Printab
 	public User(String username) {
 		this.username = username;
 		this.reviews = new ArrayList<Review>(); //Creates a list of the user's reviews
-	}  //constructor tis User
+	}  //constructor of User Class
 
 	public void addReview(Review r) {
 		reviews.add(r);

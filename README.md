@@ -79,7 +79,9 @@ f) In the movie details view:
 - Press '1' to sort by Rating: 
 * Enter the minimum required number of reviews. 
 * Enter the minimum rating threshold (e.g., 7.5). 
-* Results are displayed with the highest ratings first. - Press '2' to sort by Title (A–Z). - Press '3' to sort by Year (newest first). 
+* Results are displayed with the highest ratings first. 
+- Press '2' to sort by Title (A–Z). 
+- Press '3' to sort by Year (newest first). 
 3. View the sorted list. 
 4. Automatically returns to the menu after viewing.
 -----------------------------------------------------------------------------------------------
@@ -99,7 +101,10 @@ c) The list is displayed and automatically returns to the menu.
 
 a) Press '5' from the main menu.
 
-b) View your profile information: - Username - Account type (Guest / Verified / Critic) - All your submitted reviews - For Critics: special Critic ID 
+b) View your profile information: 
+- Username - Account type (Guest / Verified / Critic) 
+- All your submitted reviews 
+- For Critics: special Critic ID 
 
 c) Automatically returns to the menu after viewing.
 

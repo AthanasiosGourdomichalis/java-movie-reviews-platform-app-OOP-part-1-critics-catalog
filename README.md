@@ -1,5 +1,7 @@
 # MOVIE PLATFORM APPLICATION USER GUIDE 
-# (1. SYSTEM DESIGN image available in README.pdf)
+# 1. SYSTEM DESIGN (class hierarchies)
+<img width="1010" height="552" alt="image" src="https://github.com/user-attachments/assets/2ab7c9ba-d791-4a36-8227-638019eef48c" />
+
 -----------------------------------------------------------------------------------------------
 # 2. FUNCTIONALITY 
 # 2.1 Core Features 

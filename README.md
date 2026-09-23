@@ -126,3 +126,10 @@ c) After successful login, return to the main menu.
 
 a) Press '7' from the main menu.
 -----------------------------------------------------------------------------------------------
+
+---
+
+# 👤 Author
+## Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
+
+---

@@ -7,7 +7,7 @@
 > ## `Context`:
 > An **online movie platform** wants to organize its **movie catalog** to better understand **user preferences** and **improve the search** and **recommendation experience**. Users can **submit ratings** and **short reviews** for **movies they have watched**. To support the above, the company requires the development of an `object-oriented` model that represents the **core entities** (`movies`, `users`, `reviews`), **enables their insertion and retrieval**, and provides `searching`, `filtering`, and `ranking functionality`. 
 ---
-> ## `Description`
+> ## `Description`:
 > The system will represent information related to `movies`, `user reviews`, and `ratings`, to address *queries* such as:
 >  * Which are the top movies by genre?
 >  * What is the average rating of a movie?

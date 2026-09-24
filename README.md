@@ -1,4 +1,4 @@
-# Movie platform application [`Computer Programming with Java Assignment`] [`Part 1`]
+# **Movie platform application** [`Computer Programming with Java Assignment`] [`Part 1`]
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ---
 > ## `Assignment purpose`:

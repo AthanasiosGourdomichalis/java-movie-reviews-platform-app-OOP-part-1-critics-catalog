@@ -14,7 +14,7 @@
 >  * Which movies are linked to a specific movie based on genre?
 >  * Which users have rated specific movies?
 
-> The data will be inserted programmatically (hardcoded), without using external files. 
+> The data is inserted programmatically (hardcoded), without using external files. 
 ---
 ## 📄 Documentation
 * For a **detailed description** of the **assignment requirements**, **assignment purpose**, **context**, **description**, **design requirements**, **indicative functionalities**, **mandatory requirements**, **assignment instructions**, etc. please refer to the **assignment document**: [assignment.pdf](./assignment.pdf)
